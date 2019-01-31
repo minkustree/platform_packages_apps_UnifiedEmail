@@ -17,6 +17,8 @@
 -->
 
 <resources>
+    <!-- Ignore add-resource elements -->
+    <!--
     <add-resource name="RecipientEditTextViewStyle" type="style" />
     <add-resource name="ComposeEditTextView" type="style" />
     <add-resource name="LargeComposeAreaBody" type="style" />
@@ -26,6 +28,7 @@
     <add-resource name="ComposeFieldLayout" type="style" />
     <add-resource name="RecipientComposeFieldLayout" type="style" />
     <add-resource name="ComposeSubjectStyle" type="style" />
+    -->
     <declare-styleable name="ButteryProgressBar">
         <attr name="barColor" format="color" />
         <attr name="barHeight" format="dimension" />
